@@ -9,7 +9,7 @@
 <h3 align="center">A passionate Fullstack Web Developer from India currently pursuing B.tech CSE.</h3>
 
 
-- 🔭 I’m currently working on **RapidDish**
+- 🔭 I’m currently working on **Crypto Hunter**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms*
 
